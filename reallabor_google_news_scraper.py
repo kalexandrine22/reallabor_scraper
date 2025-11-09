@@ -10,7 +10,7 @@ import pandas as pd
 from tqdm import tqdm
 from urllib.parse import quote
 import time
-
+import pprint
 
 def fetch_google_rss(query):
     """Fetches RSS entries for a single query from Google News."""
@@ -48,6 +48,7 @@ def fetch_google_rss(query):
     ]
 
 
+
 def main():
     queries = [
         '"Reallabor" Wuppertal',
@@ -68,6 +69,9 @@ def main():
         all_results.extend(results)
         time.sleep(0.5)
 
+    
+    pprint.pp(all_results, indent=2)
+
     df = pd.DataFrame(all_results)
     df.to_csv("reallabor_google_news.csv", index=False, encoding="utf-8-sig")
 
@@ -78,3 +82,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
