@@ -55,7 +55,8 @@ def main():
         '"Reallabor" Lüneburg',
         '"Reallabor" Berlin',
         '"Reallabor" Stuttgart',
-        '"Reallabor" Dresden'
+        '"Reallabor" Dresden',
+        '"Reallabor" Nachhaltigkeit'
     ]
 
     all_results = []
