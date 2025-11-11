@@ -25,6 +25,14 @@ Die Ergebnisse werden als CSV-Datei gespeichert und können anschließend für w
 
 ### Installation
 
-1. Repository klonen:
-   ```bash
-   g
+```sh
+# clone repository
+git clone https://github.com/kalexandrine22/reallabor_scraper.git
+
+# create virtual environment and activate it
+python3 -m venv .venv
+. .venv/bin/activate
+
+# install packages
+pip install -r _requirements.txt
+```
