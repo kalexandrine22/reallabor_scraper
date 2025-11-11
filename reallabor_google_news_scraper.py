@@ -11,6 +11,7 @@ from tqdm import tqdm
 from urllib.parse import quote
 import time
 import pprint
+from bs4 import BeautifulSoup
 
 def fetch_google_rss(query):
     """Fetches RSS entries for a single query from Google News."""
@@ -70,7 +71,23 @@ def main():
         time.sleep(0.5)
 
     
-    pprint.pp(all_results, indent=2)
+    # pprint.pp(all_results, indent=2)
+    for result in all_results:
+        print(result)
+        from playwright.sync_api import sync_playwright
+
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=False, )
+            page = browser.new_page()
+            page.goto(result["link"])
+            page.get_by_role("button", name="Alle ablehnen").click()
+            time.sleep(5)
+            soup = BeautifulSoup(page.content(),"html.parser")
+            content = soup.select("ext-article-detail__content")
+            print(content)
+            # print(page.title())
+            # browser.close()
+        break
 
     df = pd.DataFrame(all_results)
     df.to_csv("reallabor_google_news.csv", index=False, encoding="utf-8-sig")
