@@ -1,52 +1,44 @@
-import os
 import io
 import requests
 
 
 class Sciebo:
-    WEBDAV_URL = os.environ.get("WEBDAV_URL", None)
-    TOKEN = os.environ.get("SCIEBO_TOKEN", None)
-    PASSWORD = os.environ.get("SCIEBO_PASSWORD", None)
-
-   
     @staticmethod
-    def mkcol(dest: str) -> None:
+    def mkcol(webdav_url: str, dest: str, token: str, password: str) -> None:
         """
-        create a collection
+        create a collection if it doesn't exist
         """
-        url = f"{Sciebo.WEBDAV_URL}/{dest}"
+        url = f"{webdav_url}/{dest}"
         response = requests.request(
             "MKCOL",
             url,
-            auth=(
-                Sciebo.TOKEN,
-                Sciebo.PASSWORD,
-            ),
+            auth=(token, password),
         )
         try:
             response.raise_for_status()
+            print(f"Sceibo collection created: {dest}")
         except requests.exceptions.HTTPError:
             if response.status_code == 405:  # collection exists
                 print(f"Sciebo collection exists: {dest}")
 
     @staticmethod
-    def upload(filepath: str, content: str) -> None:
+    def upload(
+        webdav_url: str,
+        filepath: str,
+        content: str,
+        token: str,
+        password: str,
+    ) -> None:
         """
-        upload article data as text file
-        accepts an article type
-        need a filename like <YYYY-MM-DD>.<ARTICLE_ID>
-        note: this method does not check for valid filepath
+        upload article data as virtual text file
         """
         file_io = io.BytesIO(content.encode("utf-8"))
-        url = f"{Sciebo.WEBDAV_URL}/{filepath}"
+        url = f"{webdav_url}/{filepath}"
 
         response = requests.put(
             url,
             data=file_io,
-            auth=(
-                Sciebo.TOKEN,
-                Sciebo.PASSWORD,
-            ),
+            auth=(token, password),
         )
 
         if response.status_code in (200, 201):
@@ -55,3 +47,5 @@ class Sciebo:
             print(
                 f"❌ Upload failed to {filepath} with status code {response.status_code}"
             )
+            if response.status_code == 403:
+                print("The file likely exists")
