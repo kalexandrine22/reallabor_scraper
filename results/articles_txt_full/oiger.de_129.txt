@@ -1,0 +1,25 @@
+TITLE: Sachsen wollen 3D-Drucker mit Abfall füttern - Oiger
+SOURCE: Oiger
+PUBLISHED: Sat, 30 Apr 2022 07:00:00 GMT
+QUERY: "Reallabor" Dresden
+GOOGLE URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxNX3JLVDlXTWEzU3d2U1lLUzhySU5IYnhFaGRFNXl4N09zR1pnMUtrbExWMlhWM05SUld5dGFzQkhXamZGeTFRQ1N4WUQxVWY4dG1TZ3g5NU50cWFOTEkyQ2s0WHFYZVNPVzNvQVZ4NEFLNFNzcWdHcVREQ3l4LWtnalo1YVBsTFk?oc=5
+REAL URL: https://oiger.de/2022/04/30/sachsen-wollen-3d-drucker-mit-abfall-fuettern/182983
+
+ARTICLE CONTENT:
+Regionalministerium fördert neues Regionallabor „Samsax“
+Freiberg/Dresden/Chemnitz, 30. April 2022. Sächsische Forscher erproben in einem neuen Reallabor „Samsax“ in Freiberg, wie sich mit industriellen 3D-Druckern beispielsweise Bühnenbildelemente oder andere Bauteile aus organischen Abfällen der Landwirtschaft herstellen lassen. Dafür hat Regionalminister Thomas Schmidt (CDU) nun eine Million Euro Fördergeld zugesagt.
+Freistaat will additive Technologien mitgestalten
+„Ich bin zuversichtlich, dass dieses Projekt den Grundstein für viele regionale Wirtschaftskooperationen im Freistaat legen wird“, betonte Schmidt. „Sachsen kann so aktiv die Entwicklung der additiven Fertigung mitgestalten.“
+Heim-3D-Drucker nutzen heute meist Kunststoff, Profi-Systeme eher Metall und Keramik
+Hintergrund: Heutige 3D-Drucker für den Heimgebrauch schmelzen meist Kunststoff auf und erzeugen daraus anhand eines Computermodells Schicht für Schicht ein gewünschtes Bauteil. Ihre Profi-Brüder, die additiven Fertigungsanlagen, setzen dafür beispielsweise hochenergetische Laser ein. Sie können auch aus Metallen, Keramiken und anderen Werkstoffen besonders materialsparend selbst sehr komplexe Bauteile 3D-drucken, die sich mit klassischen Verfahren nur schwer oder gar nicht herstellen lassen. Im medizinischen Sektor gibt es außerdem Experimente mit Bio-3D-Druckern, die Gewebestrukturen aus organischen Zellen generieren.
+Organischer Müll aus der Landwirtschaft soll sich in Bühnenbilder verwandeln
+Prof. Henning Zeidler vom Lehrstuhl für Additive Fertigung an der Bergakademie Freiberg will nun gemeinsam mit Kollegen der Technischen Universitäten Dresden und Chemnitz den nächsten Schritt gehen und die industriellen 3D-Drucker stärker als bisher für die Kreislaufwirtschaft einsetzen. In ihrem Reallabor „Sustainable Additive Manufacturing in Saxony“ (Samsax – auf Deutsch: Nachhaltige additive Fertigung in Sachsen) möchten die Ingenieure „regional anfallende organische Reststoffe aus Industrie und Landwirtschaft wieder zu verwerten und per 3D-Druck zu neuen Erzeugnissen zu verarbeiten“, wie es in der ministeriellen Ankündigung heißt. Gedacht sei beispielsweise an Holz, Stroh, Schalen, Spelzen, Papier, Pfirsichkerne oder Haselnussschale, teilte Projektleiter Zeidler auf Anfrage mit. Versetzt mit einem biologisch abbaubaren Bindemittel könnte die 3D-Drucker künftig zum Beispiel Bühnenbildelement herstellen.
+„Aus Reststoffen werden mittels digitaler Technologien und 3D-Druck wieder Wert- und Werkstücke“, freut sich Minister Schmidt schon jetzt auf die Resultate. „Gleichzeitig verringern Unternehmen ihren ökologischen Fußabdruck – so stelle ich mir eine zukunftsträchtige und nachhaltige Kreislaufwirtschaft vor.“
+Umwelttechnik Know-how trifft Additive Expertise
+Auch andere Forschungseinrichtungen arbeiten schon an ähnlichen Konzepten. Dazu gehört unter anderem das Institut für Naturstofftechnik an der TU Dresden, dass Spritzgießmaschinen mit einer Masse aus aufbereitete Holzfasern füttern will, um ausgemusterte Sperrholztische und ähnliche Möbel ein zweites Leben als Holzlöffel, Buchhüllen, Becher oder Blumenkübel zu spendieren.
+Zudem gibt es in Sachsen mehrere Institute, die sich auf verschiedene additive Fertigungstechnologien spezialisiert haben. Dazu gehören die Fraunhofer-Institute IWS, IKTS und IWU, die sich beispielsweise mit Laser-Auftragsschweißen, der „Fused Filament Fabrication“ (FFF), lithografiebasiertem Keramik-3D-Druck und anderen Technologien beschäftigen.
+Autor: Heiko Weckbrodt
+Quellen: SMR, Bergakademie Freiberg, Oiger-Archiv
+Ihre Unterstützung für Oiger.de!
+Ohne hinreichende Finanzierung ist unabhängiger Journalismus nach professionellen Maßstäben nicht dauerhaft möglich. Bitte unterstützen Sie daher unsere Arbeit! Wenn Sie helfen wollen, Oiger.de aufrecht zu erhalten, senden Sie Ihren Beitrag mit dem Betreff „freiwilliges Honorar“ via Paypal an:
+Vielen Dank!

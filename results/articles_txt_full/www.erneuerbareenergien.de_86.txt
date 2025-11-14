@@ -1,0 +1,20 @@
+TITLE: Großwärmepumpe in Stuttgart: Klimafreundliche Fernwärme für 10.000 Haushalte - erneuerbareenergien.de
+SOURCE: erneuerbareenergien.de
+PUBLISHED: Tue, 09 Apr 2024 07:00:00 GMT
+QUERY: "Reallabor" Stuttgart
+GOOGLE URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkxUTDUzOW9SQWtfTm05dEEzZm1PdjJMdWtoQVNaajU1Vk9UOWF6NEplTllpZzdqYTlMTEZHLWRUSmxGeWFqeGU0NERrNk1IVGFjZl85WThXYXdYN0FHak40NlFIdm5OZjBBcl9FS1l4SDNsejdpekc0cHB3anhad1FCUF9STzBMQlpIbllKZGhmcDJ1WVlEMGhfb3ZvdmdydzgyYndPWDN4bnFGYjA0RTBjNVB0b1Ja?oc=5
+REAL URL: https://www.erneuerbareenergien.de/waerme/grosswaermepumpe-stuttgart-klimafreundliche-fernwaerme-fuer-10000-haushalte
+
+ARTICLE CONTENT:
+Sie soll gleich zwei Fliegen mit einer neuen Klappe schlagen: Die neue Großwärmepumpe am EnBW-Kraftwerksstandort Stuttgart-Münster kann nicht nur rechnerisch 10.000 Haushalte klimaneutrale Fernwärme versorgen, sondern auch den Wärmeeintrag in den Neckar reduzieren.
+Anteil der klimaneutralen Fernwärme steigt auf 25 Prozent
+Denn die Anlage, mit bis zu 24 MW Leistung laut EnBW eine der ersten dieser Größenordnung in Deutschland, nutzt die Abwärme aus dem Kühlwasserkreislauf des benachbarten Restmüllheizkraftwerkes. Durch den Entzug der Umweltwärme fließe nun weniger warmes Wasser in den Fluss, heißt es in einer Presseinformation des Energiekonzerns. Betrieben wird die Pumpe mit Grünstrom, so dass der Betreiber von CO2-Einsparungen von rund 15.000 Tonnen ausgeht. Der Gesamtanteil an klimaneutraler Fernwärme in der Region steige damit um rund 10 Prozentpunkte auf rund 25 Prozent, hieß es weiter.
+Müllverbrennung sei nicht klimaneutral, kritisieren Umweltverbände
+Allerdings ist die Einstufung von Abfallverbrennung als klimaneutral umstritten. Umweltverbände kritisieren, dass bei der Abfallverbrennung in Deutschland jährlich fast 24 Millionen Tonnen CO2 freigesetzt werden, deren Quellen zu einem großen Anteil fossilen Ursprungs seien. Trotz der dringenden Suche nach alternativen Wärmequellen dürfe die Abfallverbrennung nicht als klimaneutral einstuft werden, fordern sie allerdings bislang erfolglos. In vielen kommunalen Wärmeplänen soll Müllverbrennung als Wärmequelle eine wichtige Rolle spielem.
+Der Großwärmepumpe soll ein H2-ready-Kraftwerk folgen
+So auch in Stuttgart: Gefördert als Reallabor der Energiewende sei eine der großen Herausforderungen des Projektes die Einbindung der Großwärmepumpe in die Bestandsanlagen und die Infrastruktur des Kraftwerksstandorts Stuttgart-Münster im laufenden Betrieb gewesen, schreibt EnBW. Denn dort entsteht am Restmüllheizkraftwerk neben der Großwärmepumpe ein wasserstofffähiges Gaskraftwerk mit einer Leistung von 124 MW, das im Laufe des Jahres 2025 die Kohlekessel ersetzen wird. Damit sei die Fernwärmeerzeugung in Stuttgart anschließend kohlefrei. In den 2030er Jahren soll dann über einen weiteren „Fuel Switch“ Wasserstoff zur klimaneutralen Erzeugung von Strom und Wärme genutzt werden.
+Thekla Walker, Ministerin für Umwelt, Klima und Energiewirtschaft Baden-Württemberg, die Einweihung angereist war betonte: „Was hier in Münster umgesetzt wird, hat Vorbildcharakter. Das Vorhaben zeigt: Die Technik von Wärmepumpen funktioniert auch im Großformat und kann auf einen Schlag tausende Haushalte mit klimafreundlicher Wärme versorgen.“ (kw)
+Zum Weiterlesen:
+Großwärmepumpe sorgt für fast 1.000 Tonnen weniger CO2
+Rückschlag für Hamburger Wärmewende: Kein Aquiferspeicher in Tiefstack
+Wärme für fast 7.000 Haushalte: Potsdamer Geothermie-Bohrungen erfolgreich

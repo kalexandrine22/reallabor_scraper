@@ -1,9 +1,9 @@
-import os
-import pandas as pd
-import requests
-import trafilatura
-from tqdm import tqdm
-from urllib.parse import urlparse
+import os #Create folders, join file paths safely
+import pandas as pd #Read the CSV that contains your article metadata
+import requests #Follow Google redirect links to real article URLs
+import trafilatura #Extract readable article text from web pages
+from tqdm import tqdm #Display progress bars in the terminal
+from urllib.parse import urlparse #Helps with URL handling (not actually used in this snippet)
 
 def get_real_url(google_url):
     """Follow the redirect from Google News RSS to the real article URL."""

@@ -1,0 +1,22 @@
+TITLE: Projektstart für riesigen Wärmespeicher in Berlin-Adlershof - Technologiepark Adlershof
+SOURCE: Technologiepark Adlershof
+PUBLISHED: Thu, 16 Nov 2023 08:00:00 GMT
+QUERY: "Reallabor" Berlin
+GOOGLE URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxPdmFrcFVVTzQ5SFRkUGhMMUYxOHJaZ0JFZXBkZEdpMFljeS1BLTJhczlVZDB0c0hIT3pnS1NEdW80MjlLeUdoN1VYVmlSV2JaRDY3WlhXZWhfNF9vVDRtTFJaX01wbXFDdzBIU2VMSnByZ09ZNVBrODdyVExpRDVXTDF1QzFhRGdIc18tb2I2YktqQVJ6eEE?oc=5
+REAL URL: https://www.adlershof.de/news/projektstart-fuer-riesigen-waermespeicher-in-berlin-adlershof
+
+ARTICLE CONTENT:
+Projektstart für riesigen Wärmespeicher in Berlin-Adlershof
+BTB baut den „GeoSpeicher Berlin“ mit über 30 GWh Speicherkapazität, ein vom Bund gefördertes Reallabor der Energiewende
+Um die Dekarbonisierung ihrer Fernwärme voranzutreiben, setzt die BTB auf eine weitere Innovation: Im Rahmen eines Forschungsprojektes wird im Energiepark Berlin-Adlershof ab 2024 ein rund 400 Meter tiefer Aquiferspeicher gebaut, der mit einem innovativen Wärmepumpensystem kombiniert wird. Im sogenannten „GeoSpeicher Berlin“ soll überschüssige, regenerative Sommerwärme aus dem BTB-Holzheizkraftwerk Neukölln eingespeichert werden, um diese im Winter nutzen zu können.
+„Bereits heute könnte mit dem im Sommer durchgehenden Betrieb des Holzheizkraftwerks eine erhebliche, zusätzliche Menge an Wärme für den Winter bereitgestellt werden. Allerdings fehlen dazu bisher die Speichermöglichkeiten“, sagt Johannes Hinrichsen von der BTB. Er leitet das jetzt gestartete, vom Bundesministerium für Wirtschaft und Klimaschutz (BMVK) geförderte Reallabor der Energiewende "GeoSpeicher Berlin". Die BTB führt das Projekt gemeinsam mit wissenschaftlichen Partnern vom Geoforschungszentrum Potsdam und der Technischen Universität Dresden durch.
+Ein Aquifer ist eine Sandschicht, deren poröse Struktur zu über 20% mit Wasser gefüllt ist. Für den Wärmespeicher werden zwei, mehrere hundert Meter voneinander entfernte Bohrungen benötigt. Über die erste Bohrung kann Aquiferwasser entnommen, im Sommer erhitzt und über die zweite Bohrung zur Wärmespeicherung wieder in den Untergrund gepumpt werden. Im Winter wird das heiße Aquiferwasser in entgegengesetzter Richtung wieder hochgepumpt, die Wärme sowohl direkt über einen Wärmetauscher als auch indirekt mit einem Wärmepumpensystem im Fernwärmenetz genutzt und das auf Gesteinstemperatur abgekühlte Wasser über die erste Bohrung wieder der Aquiferschicht zugeführt.
+„Ein Viertel der Wärme im Fernwärmenetz der BTB, die momentan noch aus dem Steinkohleheizkraftwerk Schöneweide kommt, kann mit dem Aquiferwärmespeicher im Winter eingespart und durch erneuerbare Energie aus dem Sommer ersetzt werden. Dadurch werden rund 10.000 Tonnen CO2 pro Jahr vermieden und der Kohleeinsatz kann zusammen mit anderen Projekten beendet werden“, freut sich Johannes Hinrichsen. Bei Erfolg wird die Anlage mit einer Speicherkapazität von über 30 Gigawattstunden Deutschlands größter Wärmespeicher.
+Kontakt:
+BTB
+Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin
+Albert-Einstein-Straße 22, 12489 Berlin
++49 30 349907-0
+info(at)btb-berlin.de
+www.btb-berlin.de
+Pressemitteilung BTB vom 10.11.2023

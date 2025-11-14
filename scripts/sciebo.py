@@ -16,7 +16,7 @@ class Sciebo:
         )
         try:
             response.raise_for_status()
-            print(f"Sceibo collection created: {dest}")
+            print(f"Sciebo collection created: {dest}")
         except requests.exceptions.HTTPError:
             if response.status_code == 405:  # collection exists
                 print(f"Sciebo collection exists: {dest}")

@@ -1,0 +1,34 @@
+TITLE: Re-Use im Praxistest - Detail
+SOURCE: Detail
+PUBLISHED: Thu, 30 Oct 2025 04:00:33 GMT
+QUERY: "Reallabor" Stuttgart
+GOOGLE URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xVWc1Mkc1cFBESU9CWWpyQi14YkRBUjU3MDhwampnOFNJVTlfZkFhR1dZZGpCeGtEU1pqaUt5XzF5c3NNUV9GdEdlbTlsR29jUmg1ZHhuYUVkdmFR?oc=5
+REAL URL: https://www.detail.de/de_de/re-use-im-praxistest
+
+ARTICLE CONTENT:
+Forschungsprojekt „Stuttgart 210“
+Re-Use im Praxistest
+Für die Erstellung des Stuttgarter Bahnhofsdachs wurden rund 550 Betonschalungen benötigt. Die meisten kamen nur einmal zum Einsatz. © Achim Birnbaum
+Beim Bau des neuen Hauptbahnhofs in Stuttgart (Stuttgart 21) von Ingenhoven Associates und Werner Sobek kamen mehrfach gekrümmte Betonschalungen aus Brettsperrholz zum Einsatz, um Stützen, Oberlichter und Gewölbe der Bahntunnel und Randanschlüsse herzustellen. Für die Kelchstützen wurden etwa 80 verschiedene Elemente benötigt, die als Wanderschalung eingesetzt wurden. Die Schalungen der Tunnelausgänge und Seitenwände wurden teilweise nur einmal eingesetzt. Insgesamt wurden etwa 550 Elemente verwendet, die bis zu 8 m lang, bis zu 4 m breit und je nach Krümmung bis zu 3,5 m hoch sind. Die meisten Schalungen wurden nach dem Betonieren nicht weiterverwendet, sondern als Sondermüll entsorgt.
+Die einzelnen Schalelemente sind bis zu 8 m lang und 4 m breit. © Achim Birnbaum
+Erprobung in vier Pilotprojekten
+Das Forschungsprojekt Stuttgart 210 untersuchte daher Möglichkeiten, die Schalungen im Sinne des Upcycling als Primärkonstruktion neuer Gebäude zu verwenden. Der engen Kooperation mit der Deutschen Bahn sowie den Firmen Ed Züblin und Züblin Timber verdankt das Projekt nicht nur die 3D-Datengrundlage, sondern auch 84 Schalungselemente für den Bau von vier Pilotprojekten. In Reallaboren in Ingersheim, Marbach, Stuttgart und Mannheim werden die Forschungsergebnisse einem Praxistest unterzogen.
+Das Reallabor in den Neckarwiesen von Ingersheim nördlich von Stuttgart dient als Treffpunkt für Jugendliche. © Achim Birnbaum
+Entwurfsprozesse auf den Kopf gestellt
+2024 wurde das Reallabor in Ingersheim nördlich von Stuttgart als erstes Pilotprojekt fertiggestellt und dient seither als Jugendtreff am Neckar. Aus den verfügbaren Schalelementen ließ sich zwar ein skulpturaler Innenraum formen, allerdings ergeben die Betonschalungen keine geometrisch sinnvolle Gebäudehülle. Daher umgibt eine Fassade aus Konstruktionsvollholz, Brettschalungen und Dreischichtplatten das Gebäude. Sie ist auf die Schalungselemente aufgesetzt und bildet nach außen eine autonome, elliptische Form. In Ingersheim bildet die Komposition aus zwölf Schalungselementen einen Innenraum mit zwei engen Zugängen im Osten und Westen und einem sich weitenden, kreuzförmigem Grundriss. Sämtlicher Bootslack, der die Schaloberfläche für das Betonieren gebildet hat, wurde mit Elektrohobeln, Parkett- und Exzenterschleifern entfernt. Das brachte eine einzigartige Holzoberfläche zum Vorschein, die durch die dreidimensionale Abfräsung des Brettsperrholzes eine damaszenerstahlartige Struktur zeigt.
+Zwölf wiederverwendete Schalungselemente bilden den Innenraum und tragen das Dach. Die Außenhülle wurde dagegen neu erstellt. © Achim Birnbaum
+Ökobilanz: Bestehende Verfahren mit Schwächen
+Das Forschungsprojekt hat aufgezeigt, dass die aktuellen Methoden der Ökobilanzierung deutliche Schwächen aufzeigen. Das liegt vor allem daran, dass darin weder der Zeitpunkt der Entstehung von Emissionen noch die unterschiedliche Qualität der Datengrundlage in den einzelnen Lebenszyklusphasen berücksichtigt werden. Das Modul A gemäß DIN EN 15978 (Herstellungs- und Errichtungsphase) basiert in der Regel auf einer konkreten Planung. Modul B (Nutzungsphase) fußt einem Szenario, das von einer konkreten Planung abgeleitet ist, während Modul C (Entsorgungsphase) sich auf rein spekulative Annahmen stützt.
+An den Eingängen lassen die Schalungselemente lediglich schmale Durchgänge. © Achim Birnbaum
+In der Mitte dagegen weitet sich der Raum wie ein Kirchenschiff. © Achim Birnbaum
+In Bezug auf biogene Baustoffe ist es derzeit nicht möglich, das dauerhafte CO2-Speicherpotenzial in der Ökobilanz abzubilden. Das benachteiligt diese gegenüber mineralischen und anderen abiotischen Baustoffen deutlich, insbesondere falls die Bauteile wieder- oder weiterverwendet werden. In diesem Fall werden in der Ökobilanz für diese Elemente im Neubau keine Emissionen in Modul A angesetzt, was das Gesamtergebnis bei nicht-biogenen Bauteilen in der Regel verbessert. Allerdings führt dies dazu, dass bei biogenen Bauteilen das CO₂-Bindungspotenzial, das sonst in Modul A berücksichtigt würde, in der Ökobilanz des Neubaus entfällt. Dennoch muss in Modul C weiterhin angenommen werden, dass biogene Bauteile thermisch verwertet werden. Am Beispiel der Berechnungen zum Reallabor Stuttgart Vaihingen, dessen Umsetzung für 2026 zu erwarten ist, wurde daher das CO₂-Bindungspotenzial der wiederverwendeten Schalungselemente im Modul A berücksichtigt. Die Ergebnisse zeigen einen entsprechend positiven Effekt. Dennoch wird aus den oben genannten Gründen das volle Potenzial der verlängerten CO2-Speicherung nicht abgebildet.
+Mehr dazu in Detail 10.2025 sowie in unserer Datenbank Detail Inspiration.
+Projektwebsite: stuttgart210.de
+Forschungsprojekt: Hochschule Konstanz (HTWG), Fachgebiete Baukonstruktion und Entwerfen (Stefan Krötsch) sowie Energieffizientes Bauen (Thomas Stark); Hochschule für Technik Stuttgart (HFT), Fachgebiet Entwerfen, Gestaltung und Darstellung (Andreas Kretzer); Hochschule Karlsruhe, Fachgebiet Baukonstruktion, Baustatik und Holzbau (Robert Pawlowski)
+Juristisches Gutachten: Michael Halstenberg, Kanzlei Franßen und Nusser
+Projektförderung: Holzbau-Offensive Baden-Württemberg
+Bauherr: Gemeinde Ingersheim
+Entwurf: Andreas Kretzer, Stefan Krötsch, Roman Kreuzer, Katharina Raabe, Maximilian Stemmler
+Ausführungsplanung und Bauleitung: Klingelhöfer Krötsch Architekten
+Tragwerksplanung: Faltlhauser Krapf Beratende Ingenieurgesellschaft
+Holzbau: Koch Holzbau, Workshop mit Studierenden des Masterstudiengangs IMIAD (HFT Stuttgart)
