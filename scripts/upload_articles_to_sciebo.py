@@ -13,10 +13,26 @@ WEBDAV_URL = os.getenv("WEBDAV_URL")
 TOKEN = os.getenv("SCIEBO_TOKEN")
 PASSWORD = os.getenv("SCIEBO_PASSWORD")
 SCIEBO_FOLDER = os.getenv("SCIEBO_FOLDER", "Reallabor_Articles")
-RESULTS_FILE = os.getenv("RESULTS_FILE", "results/google_news_results.json")
 
-# Local backup folder
+# REMOVE or COMMENT OUT the env version:
+# RESULTS_FILE = os.getenv("BING_RESULTS_FILE", "results/bing_news_results.json")
+
+# USE ABSOLUTE PATH:
+RESULTS_FILE = "/Users/kalexandrine22/Documents/code/reallabor_scraper/results/bing_news_results.json"
+
 LOCAL_SAVE_DIR = os.path.join("results", "articles_txt_full")
+
+# WEBDAV_URL = os.getenv("WEBDAV_URL")
+# TOKEN = os.getenv("SCIEBO_TOKEN")
+# PASSWORD = os.getenv("SCIEBO_PASSWORD")
+# SCIEBO_FOLDER = os.getenv("SCIEBO_FOLDER", "Reallabor_Articles")
+# # RESULTS_FILE = "/Users/kalexandrine22/Documents/code/reallabor_scraper/results/bing_news_results.json"
+# LOCAL_SAVE_DIR = os.path.join("results", "articles_txt_full")
+# # RESULTS_FILE = os.getenv("BING_RESULTS_FILE", "results/bing_news_results.json")
+# # RESULTS_FILE = os.getenv("RESULTS_FILE", "results/google_news_results.json")
+
+# # Local backup folder
+# LOCAL_SAVE_DIR = os.path.join("results", "articles_txt_full")
 
 
 def fetch_and_upload_articles():

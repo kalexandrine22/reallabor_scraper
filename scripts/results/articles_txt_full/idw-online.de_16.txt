@@ -1,0 +1,48 @@
+TITLE: Fraunhofer IOSB-AST entwickelt nachrüstbare Automationslösungen für sichere und effiziente Kommunalarbeit
+SOURCE: None
+PUBLISHED: Sun, 09 Nov 2025 23:42:00 GMT
+QUERY: "Reallabor" Dresden
+GOOGLE URL: http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=691dd5ffb8b64debbb4fdd1c123d4cb4&url=https%3a%2f%2fidw-online.de%2fde%2fnews861205&c=11211464349534125997&mkt=en-ww
+REAL URL: https://idw-online.de/de/news861205
+
+ARTICLE CONTENT:
+Das Fraunhofer IOSB-AST erforscht im geförderten Projekt „ElPrA“ die Automatisierung, Fernsteuerung sowie den autonomen Betrieb mobiler Arbeitsmaschinen mit spezifischen Anbaugeräten – insbesondere als Retrofit-Lösungen für bereits im Einsatz befindliche Maschinen. Ziel ist es, wiederkehrende und sicherheitskritische Tätigkeiten im kommunalen Umfeld effizienter, sicherer und ressourcenschonender zu gestalten.
+Im Fokus des bis Ende 2026 laufenden Projektes „ElPrA“ stehen das präzise,
+automatisierte Fahren sowie die auszuführende Arbeitsaufgabe: Je nach Einsatzszenario assistiert, automatisiert oder vollständig autonom. Am Beispiel einer
+Maschinenkombination aus einem autonomen Claas Arion 660 mit einem Fiedler Frontausleger und Leitpfostenwaschbürste untersucht das Projekt das autonome Reinigen von Leitpfosten, Verkehrsschildern und Leitplanken an Straßen.
+Die Vorteile für Kommunen und Straßenbetriebsdienste:
+• höhere Sicherheit durch weniger gefährliche Arbeiten direkt am Straßenrand
+• planbare, gleichbleibende Qualität bei wiederkehrenden Aufgaben
+• geringerer Personal- und Fahrzeugeinsatz durch Automatisierung
+• Nachrüstung bestehender Flotten statt teurer Neuanschaffungen durch Retrofit
+Für die Entwicklung und Absicherung der Algorithmen setzt ElPrA auf einen digitalen Zwilling der Maschinenkombination. In Simulationen werden optimale
+Sensorkombinationen und deren Anordnung bestimmt, neuronale Netze trainiert und Verfahren bis hin zum Imitationslernen erprobt – mit dem Ziel, die Ansteuerung des Arbeitsgeräts kontinuierlich zu verbessern. Voraussetzung für den zuverlässigen Betrieb sind eine präzise Umgebungserfassung (inklusive Hindernisse) sowie die sichere
+Erkennung und Lokalisierung der zu bearbeitenden Objekte, zum Beispiel Leitpfosten.
+Die Validierung erfolgt in zwei Schritten: Zunächst werden unterschiedlichste
+Einsatzumgebungen simuliert, anschließend werden die Verfahren im Reallabor für autonome Arbeitsmaschinen in Ilmenau praktisch getestet. So wird der Transfer von der virtuellen Entwicklung in den realen Betrieb systematisch abgesichert.
+„Mit dem Projekt ElPrA wollen wir wesentliche Schritte erreichen, um die Bediener von Kommunalfahrzeugen gerade bei den komplexen Arbeitsaufgaben deutlich zu entlasten und damit die Arbeitsqualität und die Sicherheit im kommunalen Bereich signifikant zu erhöhen“, sagt Prof. Dr.-Ing. Andreas Wenzel vom Fraunhofer IOSB-AST.
+Das Projekt wird vom Freistaat Sachsen durch die Sächsische Aufbaubank (SAB) mit Kofinanzierung durch die Europäische Union gefördert. Industriepartner sind die Fiedler Maschinenbau und Technikvertrieb GmbH sowie die FES GmbH Fahrzeug-Entwicklung Sachsen. Wissenschaftliche Unterstützung leistet die Hochschule für Technik und Wirtschaft Dresden (HTW Dresden).
+Prof. Dr.-Ing. Andreas Wenzel, +49 3677 461-144, andreas.wenzel@iosb-ast.fraunhofer.de, www.iosb-ast.fraunhofer.de
+Im „Reallabor für autonome Arbeitsmaschinen“ am Fraunhofer IOSB-AST in Ilmenau reinigt der autonome ...
+Quelle: Nadine Knechtel
+Copyright: Fraunhofer IOSB-AST
+In der Simulation des digitalen Zwillings des Reallabors für autonome Arbeitsmaschinen reinigt der a ...
+Quelle: Fraunhofer IOSB-AST
+Copyright: Fraunhofer IOSB-AST
+Merkmale dieser Pressemitteilung:
+Journalisten, Wirtschaftsvertreter
+Maschinenbau, Verkehr / Transport
+überregional
+Forschungs- / Wissenstransfer, Forschungsprojekte
+Deutsch
+Im „Reallabor für autonome Arbeitsmaschinen“ am Fraunhofer IOSB-AST in Ilmenau reinigt der autonome ...
+Quelle: Nadine Knechtel
+Copyright: Fraunhofer IOSB-AST
+In der Simulation des digitalen Zwillings des Reallabors für autonome Arbeitsmaschinen reinigt der a ...
+Quelle: Fraunhofer IOSB-AST
+Copyright: Fraunhofer IOSB-AST
+Sie können Suchbegriffe mit und, oder und / oder nicht verknüpfen, z. B. Philo nicht logie.
+Verknüpfungen können Sie mit Klammern voneinander trennen, z. B. (Philo nicht logie) oder (Psycho und logie).
+Zusammenhängende Worte werden als Wortgruppe gesucht, wenn Sie sie in Anführungsstriche setzen, z. B. „Bundesrepublik Deutschland“.
+Die Erweiterte Suche können Sie auch nutzen, ohne Suchbegriffe einzugeben. Sie orientiert sich dann an den Kriterien, die Sie ausgewählt haben (z. B. nach dem Land oder dem Sachgebiet).
+Haben Sie in einer Kategorie kein Kriterium ausgewählt, wird die gesamte Kategorie durchsucht (z.B. alle Sachgebiete oder alle Länder).
